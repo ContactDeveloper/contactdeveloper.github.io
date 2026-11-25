@@ -1,0 +1,24 @@
+# app-ads.txt for Syed Majid Hussain
+# Developer website: https://contactdeveloper.github.io
+# Contact: privacy.contactdeveloper@gmail.com
+#
+# Paste each ad network's lines below (one per line), from that network's dashboard.
+# Lines starting with # are comments and are ignored.
+
+# ---- Google AdMob ----
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# ---- Unity Ads ----
+# unity.com, XXXXXXX, DIRECT, 96cabb5fbdde37a7
+
+# ---- Meta Audience Network (Facebook) ----
+# facebook.com, XXXXXXXXXXXXXXX, RESELLER, c3e20eee3f780d68
+
+# ---- AppLovin ----
+# applovin.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT
+
+# ---- Liftoff (Vungle) ----
+# vungle.com, XXXXXXXXXXXXXXXXXXXXXXXX, DIRECT, c107d686becd2d77
+
+# ---- Mintegral ----
+# mintegral.com, XXXXX, DIRECT, 0aeed750c80d6423
